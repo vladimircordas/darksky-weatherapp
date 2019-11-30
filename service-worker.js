@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/darksky-weatherapp/precache-manifest.0a606153698567d346cc8ee35a79b1a6.js"
+  "/darksky-weatherapp/precache-manifest.f08d749b71f68996f93c5fce8e17f35b.js"
 );
 
 self.addEventListener('message', (event) => {
